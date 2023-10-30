@@ -1,7 +1,7 @@
 # ChatBot
 ChatGPT＊Voicevox＊Unityのチャットボットです。自由にお使いください。
 ## 環境  
-- 2021f~  
+- 2021.3.14f  
 - UniTask
 - UniRx   
 ## 使い方
