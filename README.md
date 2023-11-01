@@ -14,7 +14,7 @@ https://github.com/saitocastel1900/ChatBot/assets/96648305/4dbee3c1-e654-4288-a3
 ![キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/bc6c7643-dfe7-46b6-af83-5aec879f0b00)  
 
 2. VOICEVOXコンポーネントのVoicevoxEngineURLにVoicevoxEngineを立てるサーバーのURLを入力  
-[キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/fd80e4a7-ecde-450f-b098-b2f3e013638a)  
+![279625511-fd80e4a7-ecde-450f-b098-b2f3e013638a](https://github.com/saitocastel1900/ChatBot/assets/96648305/9d279534-8d57-47c7-b067-6ab12637a723)
 
 3. CHATGPTスクリプトに、ChatGPTのAPIキーを設定  
 ![キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/851d033d-66f7-42e8-bb54-bf71b218c406)  
