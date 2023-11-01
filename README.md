@@ -1,8 +1,6 @@
 # ChatBot
 ChatGPT＊Voicevox＊Unityのチャットボットです。自由にお使いください。 
 
-https://github.com/saitocastel1900/ChatBot/assets/96648305/4dbee3c1-e654-4288-a389-433ac83c201c  
-
 ## 環境  
 - 2021.3.14f  
 - UniTask
@@ -11,19 +9,19 @@ https://github.com/saitocastel1900/ChatBot/assets/96648305/4dbee3c1-e654-4288-a3
 
 ## 試す
 1. ChatBot.Sceneに移動する  
-![キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/bc6c7643-dfe7-46b6-af83-5aec879f0b00)  
+ 
 
 2. VOICEVOXコンポーネントのVoicevoxEngineURLにVoicevoxEngineを立てるサーバーのURLを入力  
-![279625511-fd80e4a7-ecde-450f-b098-b2f3e013638a](https://github.com/saitocastel1900/ChatBot/assets/96648305/9d279534-8d57-47c7-b067-6ab12637a723)
+![279625511-fd80e4a7-ecde-450f-b098-b2f3e013638a](https://github.com/saitocastel1900/ChatBot/assets/96648305/09a57a90-6b92-4631-94dd-b4b542c5cbee)  
 
 3. CHATGPTスクリプトに、ChatGPTのAPIキーを設定  
-![キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/851d033d-66f7-42e8-bb54-bf71b218c406)  
+![キャプチャ (1)](https://github.com/saitocastel1900/ChatBot/assets/96648305/c1a8e053-e006-4b5d-803a-5fef7204a388)  
 
 4. VoicevoxEngineを起動する  
-![キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/33c499dd-2562-4300-97c7-71bf99de812d)  
+![キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/72a6c794-2f54-4561-86ed-34f51c7ec071)  
 
 5. チャットを楽しむ！  
-![キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/873cf6a3-1d6b-44a9-9532-197b88340f26)
+
 
 ## 参考資料  
 https://note.com/negipoyoc/n/n88189e590ac3  
