@@ -3,7 +3,8 @@ ChatGPT＊Voicevox＊Unityのチャットボットです。自由にお使いく
 ## 環境  
 - 2021.3.14f  
 - UniTask
-- UniRx   
+- UniRx
+- Newtonsoft.Json  
 ## 使い方
 
 ## ライセンス 
