@@ -8,7 +8,7 @@ https://github.com/saitocastel1900/ChatBot/assets/96648305/4dbee3c1-e654-4288-a3
 - UniTask
 - UniRx
 - Newtonsoft.Json
-- 
+
 ## 試す
 1 .ChatBot.Sceneに移動する  
 ![キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/bc6c7643-dfe7-46b6-af83-5aec879f0b00)  
