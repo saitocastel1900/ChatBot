@@ -25,6 +25,10 @@ https://github.com/saitocastel1900/ChatBot/assets/96648305/a9a9c9b0-de9f-43a5-9d
 5. チャットを楽しむ！  
 ![キャプチャ](https://github.com/saitocastel1900/ChatBot/assets/96648305/1d921e90-c1fc-4f81-9668-ac41540d120a)
 
+etc. 機能を拡張してみる  
+
+https://github.com/saitocastel1900/ChatBot/assets/96648305/14e07fc8-dff4-422d-a451-ebb67d3731d7
+
 ## 参考資料  
 https://note.com/negipoyoc/n/n88189e590ac3  
 https://qiita.com/Haruyama_Dev/items/5b8ac0260cdfeff47121  
